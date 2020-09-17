@@ -1,0 +1,15 @@
+footer{
+    color: black;
+}
+footer p {
+    font-size: 11px;
+}
+.navbar-nav li{
+    color: black;
+}
+.card-body{
+    align-items: center;
+    border-radius: 15px;
+    border: solid;
+    border-color: #eb9834;
+}
